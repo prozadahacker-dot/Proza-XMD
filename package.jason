@@ -1,0 +1,16 @@
+{
+  "name": "proza-xmd",
+  "version": "1.0.0",
+  "description": "Lightweight Proza XMD WhatsApp AI chatbot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.17.0"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "pino": "^9.0.0"
+  }
+}
